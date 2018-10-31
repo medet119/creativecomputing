@@ -1,0 +1,65 @@
+body { 
+background-image: (https://gweb-earth.storage.googleapis.com/assets/hero@2x.jpg);
+background-repeat: no-repeat;
+}
+
+
+
+
+p {
+	text-align:left;
+	font-family:'Chakra Petch', sans-serif;
+	font-size: 100px
+	font-weight:normal;
+	
+	#sidebar {
+  float: right;			
+}
+
+
+
+background: -moz-linear-gradient(top, rgba(30,87,153,1) 0%, rgba(125,185,232,0) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(30,87,153,1) 0%,rgba(125,185,232,0) 100%); /* Chrome10-25,Safari5.1-6 */ 
+#container {
+width: 215px;
+height: 190px;
+color: rgb(239, 65, 35);
+background-color: white;
+padding: 5px;
+}
+
+article {
+	min-width: 600px;
+	max-width: 800px;
+	margin: 0 auto;
+	/*margin-top: 0;
+	margin-bottom: 0;
+	margin-right:auto;
+	margin-left:auto:*/;
+}
+
+
+ 
+}
+
+	opacity:0.5;
+	background-image:url();
+
+}
+
+
+
+
+}
+
+a{ 
+color: green;
+
+ }
+a:visited{
+	color: pink;
+}
+a:hover{
+	color: blue;
+}
+
